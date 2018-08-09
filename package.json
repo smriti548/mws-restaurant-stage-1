@@ -8,14 +8,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/JeremieLitzler/mws-restaurant-stage-1.git"
+		"url": "git+https://github.com/smriti548/mws-restaurant-stage-1.git"
 	},
 	"author": "JL",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/JeremieLitzler/mws-restaurant-stage-1/issues"
+		"url": "https://github.com/smriti548/mws-restaurant-stage-1/issues"
 	},
-	"homepage": "https://github.com/JeremieLitzler/mws-restaurant-stage-1#readme",
+	"homepage": "https://github.com/smriti548/mws-restaurant-stage-1#readme",
 	"devDependencies": {
 		"gulp": "^3.9.1",
 		"gulp-clean-css": "^3.9.3",
